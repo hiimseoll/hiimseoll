@@ -1,7 +1,7 @@
 안녕하세요!
 
 ## ❇️ 설동호 / Seol Dong-Ho
-Embedded system firmware developer
+Embedded Systems Firmware Engineer
 
 Contact: hiimseoll@outlook.kr
 
@@ -11,11 +11,24 @@ Contact: hiimseoll@outlook.kr
 
 | Category      | Stack |
 |----------------|-------|
-| Language       | C/C++, MicroPython, Rust (beginner) |
-| MCU/Platform   | ESP32, ESP8266, ARM Cortex-M (STM32), RPi, RP2040 |
-| RTOS/System    | FreeRTOS, DMA, Linux (Device Driver) |
-| Protocol       | CAN, UART, SPI, I2C, I2S, MQTT, TCP/IP Socket |
-| Tool           | STM32CubeMX, ESP-IDF, PlatformIO, QT-Creator |
+| Language | C/C++, MicroPython, Rust (beginner) |
+| MCU/Platform | ESP32, ESP8266, ARM Cortex-M (STM32), RPi, RP2040 |
+| RTOS/System | FreeRTOS, DMA, Linux (Device Driver), embassy(async) |
+| Protocol | CAN, UART, SPI, I2C, I2S, MQTT, TCP/IP Socket, WiFi(cyw43) |
+| Tool | STM32CubeMX, ESP-IDF, PlatformIO, QT-Creator |
+
+---
+
+### 주요 프로젝트
+
+| Project | Stack | Description |
+|---|---|---|
+| [keystroke-cadence-lock](https://github.com/hiimseoll/keystroke-cadence-lock) | RP2040, Rust(embassy), CNN | PIN 입력 리듬 학습 기반 보조 인증 도어락 |
+| [mini-ipmi](https://github.com/hiimseoll/mini-ipmi) | STM32, TCP/IP Socket | 원격 시리얼 콘솔 및 장치 제어 시스템 |
+| [KCCI-Elevator](https://github.com/KCCI-Elevator) | STM32, FreeRTOS, CAN | 다중 노드 엘리베이터 제어 시스템 |
+| [Ambient node](https://github.com/Ambient-Node) | RP2040, RPi5, tflite | AI 비전 사용자 추적형 에어서큘레이터 시스템 |
+| [powerAgent](https://github.com/hiimseoll/powerAgent) | ESP12, MQTT | 전력 모니터링 및 원격 제어 스마트플러그 시스템 |
+| [fhss-ota-radio](https://github.com/fhss-ota-radio) | ESP32, FHSS, OTA | FHSS 무전기 및 RF OTA 펌웨어 업데이트 시스템 |
 
 ---
 
@@ -25,6 +38,7 @@ Contact: hiimseoll@outlook.kr
 디지털 회로설계(Verilog), 리눅스 커널/디바이스드라이버, 펌웨어 개발, 온디바이스UI 객체지향 설계(Qt6)
 
 - **주요 작업물**
+  - keystroke-cadence-lock: PIN 입력 리듬 학습 기반 보조 인증 도어락
   - mini-ipmi: 원격 시리얼 콘솔 및 장치 제어 시스템
   - KCCI-Elevator: 다중 노드 엘리베이터 제어 시스템
 
@@ -52,17 +66,6 @@ Contact: hiimseoll@outlook.kr
 
 ---
 
-### 주요 프로젝트
-
-| Project | Stack | Description |
-|---|---|---|
-| [mini-ipmi](https://github.com/hiimseoll/mini-ipmi) | STM32, TCP/IP Socket | 원격 시리얼 콘솔 및 장치 제어 시스템 |
-| [KCCI-Elevator](https://github.com/KCCI-Elevator) | STM32, FreeRTOS, CAN | 다중 노드 엘리베이터 제어 시스템 |
-| [Ambient node](https://github.com/Ambient-Node) | RP2040, RPi5, tflite | AI 비전 사용자 추적형 에어서큘레이터 시스템 |
-| [powerAgent](https://github.com/hiimseoll/powerAgent) | ESP12, MQTT | 전력 모니터링 및 원격 제어 스마트플러그 시스템 |
-| [fhss-ota-radio](https://github.com/fhss-ota-radio) | ESP32, FHSS, OTA | FHSS 무전기 및 RF OTA 펌웨어 업데이트 시스템 |
-
----
 
 ### Development Environment
 
