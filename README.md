@@ -15,7 +15,19 @@ Contact: hiimseoll@outlook.kr
 | MCU/Platform | ESP32, ESP8266, ARM Cortex-M (STM32), RPi, RP2040 |
 | RTOS/System | FreeRTOS, DMA, Linux (Device Driver), embassy(async) |
 | Protocol | CAN, UART, SPI, I2C, I2S, MQTT, TCP/IP Socket, WiFi(cyw43) |
-| Tool | STM32CubeMX, ESP-IDF, PlatformIO, QT-Creator |
+| Tool | STM32CubeMX, ESP-IDF, PlatformIO, QT-Creator, Vim |
+
+---
+
+### 공부 기록
+
+| Repository | Description |
+|---|---|
+| [embedded-c-fundamentals](https://github.com/hiimseoll/embedded-c-fundamentals) | 임베디드 C 기본기 학습 |
+| [rpi4-device-drivers](https://github.com/hiimseoll/rpi4-device-drivers) | 라즈베리파이 4B 리눅스 디바이스 드라이버 실습 |
+| [study-notes](https://github.com/hiimseoll/study-notes) | 개인 학습 노트 정리 |
+| [rpi-pico-micropython](https://github.com/hiimseoll/rpi-pico-micropython) | 라즈베리파이 피코 MicroPython 실습 |
+| [verilog study](https://github.com/hiimseoll/verilog-study) | 디지털 회로 설계 및 Verilog 학습 |
 
 ---
 
@@ -35,7 +47,7 @@ Contact: hiimseoll@outlook.kr
 ### Education & Training
 
 #### 대한상회 AI시스템반도체SW개발자 (2026.02 ~ 2026.08 | 수료예정)
-디지털 회로설계(Verilog), 리눅스 커널/디바이스드라이버, 펌웨어 개발, 온디바이스UI 객체지향 설계(Qt6)
+디지털 회로설계(Verilog), Yocto, 리눅스 커널/디바이스드라이버, 펌웨어 개발, 온디바이스UI 객체지향 설계(Qt6)
 
 - **주요 작업물**
   - keystroke-cadence-lock: PIN 입력 리듬 학습 기반 보조 인증 도어락
@@ -65,18 +77,3 @@ Contact: hiimseoll@outlook.kr
   - SMOX
 
 ---
-
-
-### Development Environment
-
-**for Dev:** VSCode (ESP-IDF), CLion (PlatformIO, STM32CubeMX), Arduino CLI/IDE, Vim (Linux device driver)
-
-**for Train:** Vim (C/C++ | Linux), Sublime Text (C/C++ | Windows), RustRover (Rust)
-
-| | Primary | Secondary |
-|---|---|---|
-| Device | Thinkpad T14 Gen 5 | — |
-| OS | Fedora Linux 44 Workstation / Linux 7.1.3 | Windows 11 Pro |
-| CPU | AMD Ryzen 7 PRO 8840U | AMD Ryzen 9 7900X |
-| GPU | AMD Radeon 780M | AMD Radeon RX 7900XTX 24GB|
-| Memory | 32 GB | 32GB |
