@@ -59,7 +59,7 @@ Contact: hiimseoll@outlook.kr
 - **Bio-IT 융합연구소 학부연구생** (2023.09 ~ 2026.02)
   - 형광검출기반 dPCR기기 연구개발
   - 임피던스측정기반 dPCR기기 연구개발
-- **Global Training** — USA/Utah State University 단기 CS & ES 과정 수료 (2026.06 ~ 2026.07)
+- **Global Training** — USA/Utah State University 단기 CS & ES 과정 수료 (2025.06 ~ 2025.07)
 - **주요 작업물**
   - Ambient node: AI비전 기반 얼굴 추적 에어서큘레이터
   - powerAgent: 전력 모니터링 스마트플러그
@@ -69,7 +69,7 @@ Contact: hiimseoll@outlook.kr
   - C.愛.랑 동아리 전시회 입상 2회
 
 #### 양영디지털고등학교 정보통신과 (2017.02 ~ 2020.02 | 졸업)
-- 네트워크관리사 2급, 정보기기운용기능사, 정보처리기능사, 전자기능사 취득
+- 정보기기운용기능사, 정보처리기능사, 전자기능사 취득
 - IoT 동아리 회장(2018~2019) · 드론 동아리 활동(2017)
 
 - **주요 작업물**
